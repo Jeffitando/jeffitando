@@ -27,7 +27,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/jeffitando/jeffitando/blob/output/snake.svg" alt="Snake animation" />
 
 ![Snake animation](https://github.com/jeffitando/jeffitando/blob/output/github-contribution-grid-snake.svg)
 
