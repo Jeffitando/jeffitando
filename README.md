@@ -7,11 +7,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jeffitando" height="150" alt="languages graph"  />
 </div>
 
-###
+
+<br>
+<br>
 
 <img align="right" height="150" src="https://thumbs.gfycat.com/ImpracticalDeadlyEstuarinecrocodile-size_restricted.gif"  />
 
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -29,5 +32,11 @@
 
 
 ![Snake animation](https://github.com/jeffitando/jeffitando/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jeffitando/count.svg?"  />
+</div>
 
 ###
