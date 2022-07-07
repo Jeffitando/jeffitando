@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h1>
+<h1 align="center">Olá 🖖🏽! Meu nome é Jefferson Douglas.</h1>
 
 ###
 
@@ -32,6 +32,14 @@
 
 
 ![Snake animation](https://github.com/jeffitando/jeffitando/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ijefferson" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />  
+  <a href="https://instagram.com/jeffitando" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />  
+  <a href = "mailto:jeffitando@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
 ###
 
