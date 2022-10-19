@@ -2,10 +2,15 @@
 
 ###
 <div align="center"> 
-
-![jeffitando's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffitando)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffitando&layout=compact)](https://github.com/jeffitando/github-readme-stats)
+  
+<a href="https://github.com/jeffitando">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffitando&repo=github-readme-stats&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffitando&layout=compact&langs_count=7&theme=radical"/>
+  
+  
 </div>
+  
 
 ###
 
