@@ -8,7 +8,7 @@
 </div>
   
  <div align="center"> 
-<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=jeffitando&theme=dark&border_radius=20&locale=pt-br"/>
+<img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=jeffitando&theme=dark&border_radius=20&locale=pt-br"/>
  </div>
 
 ###
