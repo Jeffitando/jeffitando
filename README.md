@@ -1,12 +1,10 @@
 <h1 align="center">Olá 🖖🏽! Meu nome é Jefferson Douglas.</h1>
 
 ###
-<div align="center">
-  
-</div>
+<div align="center"> 
 
- <div>
- 
+![jeffitando's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffitando)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffitando&layout=compact)](https://github.com/jeffitando/github-readme-stats)
 </div>
 
 ###
