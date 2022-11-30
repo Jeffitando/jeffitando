@@ -1,15 +1,26 @@
 <h1 align="center">Olá 🖖🏽! Meu nome é Jefferson Douglas.</h1>
 
-###
 <div align="center">   
-<a href="https://github.com/jeffitando">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffitando&repo=github-readme-stats&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border_radius=20&locale=pt-br"/>  
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffitando&layout=compact&langs_count=7&theme=dark&border_radius=20&locale=pt-br"/>   
-</div>
-  
- <div align="center"> 
-<img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=jeffitando&theme=dark&border_radius=20&locale=pt-br"/>
+
+<img align="left"  height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffitando&theme=dark&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img align="right"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffitando&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-br"/><br/>
+<div align="center"> 
+<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=jeffitando&theme=dark&border_radius=20&locale=pt-br"/>
  </div>
+
+
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+###
+
+  
+ 
 
 ###
 
