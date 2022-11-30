@@ -1,6 +1,7 @@
 
+<h1 align="center">Olá! Meu nome é Jefferson Douglas. 🖖🏽</h1>
 
-![banner](https://user-images.githubusercontent.com/86518315/204880656-5fef513e-e895-4e09-be0a-d01f7e8e9739.png)
+###
 
 
 </br>
