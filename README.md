@@ -2,7 +2,13 @@
 <h1 align="center">Olá! Meu nome é Jefferson Douglas. 🖖🏽</h1>
 
 ###
-
+```
+Apaixonado por tecnologia, atualmente trabalho como Desenvolvedor Mobile (Android)
+Me considero ágil e consistente em aprender novas tecnologias e me adaptar à novas mudanças, 
+Venho evoluindo e crescendo profissionalmente. 
+Possuo foco em desenvolvimento mobile com Java e Kotlin dentre outras tecnologias.
+pronto para superar qualquer desafio!
+```
 
 </br>
 
