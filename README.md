@@ -9,14 +9,15 @@ Venho evoluindo e crescendo profissionalmente.
 Possuo foco em desenvolvimento mobile com Java e Kotlin dentre outras tecnologias.
 pronto para superar qualquer desafio!
 ```
-
+</br>
+</br>
 </br>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jeffitando" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jeffitando" height="150" alt="languages graph"  />  
-  <img src="https://streak-stats.demolab.com/?user=jeffitando&theme=dracula&hide_border=false&username=jeffitando" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=jeffitando" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=jeffitando" height="150" alt="languages graph"  />  
+  <img src="https://streak-stats.demolab.com/?user=jeffitando&theme=dark&hide_border=false&username=jeffitando" height="150" alt="languages graph"  />
 </div>
 <br clear="both">
 <br/>
@@ -86,11 +87,14 @@ pronto para superar qualquer desafio!
 
 ###
 
-<div align="center">
- <img src="https://gpvc.arturio.dev/jeffitando"  />
-</div>
 
-###
+<div align="center">
+<img src="https://user-images.githubusercontent.com/86518315/205305511-7bef6a6d-934d-490d-a8cf-efa5091855c1.png" height="200" width="400" alt="plus ultra logo"  />
+  </div>
+    
+<div align="center">
+<img src="https://gpvc.arturio.dev/jeffitando"  />
+</div>
 
 
 
