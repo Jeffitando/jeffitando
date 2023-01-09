@@ -54,24 +54,6 @@ pronto para superar qualquer desafio!
 </div>
 
 ###
-  
-
-    
-
-
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
 
 
 
