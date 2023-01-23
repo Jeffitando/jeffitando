@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá! Meu nome é Jefferson Douglas. 🖖🏽</h1>
 
-###
+
 
 <p align="justify"> Apaixonado por tecnologia, atualmente trabalho como Desenvolvedor Mobile (Android)
 Me considero ágil e consistente em aprender novas tecnologias e me adaptar à novas mudanças, 
@@ -9,8 +9,9 @@ Venho evoluindo e crescendo profissionalmente.
 Possuo foco em desenvolvimento mobile com Java e Kotlin dentre outras tecnologias.
 pronto para superar qualquer desafio!</p>
 
-</br>
-</br>
+#
+
+
 </br>
 
 
@@ -20,9 +21,8 @@ pronto para superar qualquer desafio!</p>
   <img src="https://streak-stats.demolab.com/?user=jeffitando&theme=dark&hide_border=false&username=jeffitando" height="150em" alt="languages graph"  />
 </div>
 <br clear="both">
-<br/>
-<br/>
-<br/>
+
+
 
 <br>
 
