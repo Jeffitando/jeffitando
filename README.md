@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=Jefferson%20Douglas%20🖖🏽&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<h1 align="center">Olá! Meu nome é Jefferson Douglas. 🖖🏽</h1>
+
 
 
 
@@ -74,6 +75,6 @@ pronto para superar qualquer desafio!</p>
 <img src="https://gpvc.arturio.dev/jeffitando"  />
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=120&section=footer"/>
 
 
