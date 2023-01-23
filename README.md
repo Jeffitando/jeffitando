@@ -7,19 +7,15 @@
 Me considero ágil e consistente em aprender novas tecnologias e me adaptar à novas mudanças, 
 Venho evoluindo e crescendo profissionalmente. 
 Possuo foco em desenvolvimento mobile com Java e Kotlin dentre outras tecnologias.
-pronto para superar qualquer desafio!</p>
+pronto para superar qualquer desafio!</p> 
+
 
 #
 
 
-</br>
+| <a href="https://github.com/jeffitando/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffitando&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="jeffitando's github stats" /></a> | <a href="https://github.com/jeffitando/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffitando&layout=compact&theme=dark&hide_border=true" /></a> 
+| ------------- | ------------- |
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=jeffitando" height="150em" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=jeffitando" height="150em" alt="languages graph"  />  
-  <img src="https://streak-stats.demolab.com/?user=jeffitando&theme=dark&hide_border=false&username=jeffitando" height="150em" alt="languages graph"  />
-</div>
 <br clear="both">
 
 
