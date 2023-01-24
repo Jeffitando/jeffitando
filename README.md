@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=Jefferson%20Douglas%20🖖🏽&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&text=Jefferson%20Douglas%20🖖🏽&fontSize=42&fontColor=9e9e9e&animation=twinkling&fontAlignY=35"/> 
 
 <p align="justify"> Apaixonado por tecnologia, atualmente trabalho como Desenvolvedor Mobile (Android)
 Me considero ágil e consistente em aprender novas tecnologias e me adaptar à novas mudanças, 
