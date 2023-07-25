@@ -67,9 +67,7 @@ pronto para superar qualquer desafio!</blockquote>
 <img src="https://user-images.githubusercontent.com/86518315/205305511-7bef6a6d-934d-490d-a8cf-efa5091855c1.png" height="200em" width="400em" alt="plus ultra logo"  />
   </div>
     
-<div align="center">
-<img src="https://gpvc.arturio.dev/jeffitando"  />
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=120&section=footer"/>
 
